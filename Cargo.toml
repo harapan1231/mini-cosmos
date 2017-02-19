@@ -1,0 +1,13 @@
+[package]
+name = "mini-cosmos"
+version = "0.1.0"
+authors = ["harapan1231 <senang.harapan@gmail.com>"]
+
+[dependencies]
+rocket = "0.2.0"
+rocket_codegen = "0.2.0"
+rocket_contrib = "0.2.0"
+serde = "0.9"
+serde_json = "0.9"
+serde_derive = "0.9"
+
