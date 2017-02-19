@@ -14,6 +14,9 @@ target
 # More information here http://doc.crates.io/guide.html#cargotoml-vs-cargolock
 Cargo.lock
 
+# nohup
+nohup.out
+
 # # Generated databases
 # db.sql
 # 
